@@ -1,0 +1,81 @@
+
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "published_year": 1925,
+        "genre": "Novel"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "published_year": 1960,
+        "genre": "Novel"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "published_year": 1949,
+        "genre": "Dystopian"
+    },
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "published_year": 1997,
+        "genre": "Fantasy"
+    },
+    {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "published_year": 1954,
+        "genre": "Fantasy"
+    },
+    {
+        "title": "Maze Runner",
+        "author": "James Dashner",
+        "published_year": 2009,
+        "genre": "Dystopian"
+    },
+    {
+        "title": "Sherlock Holmes: The Complete Novels and Stories",
+        "author": "Arthur Conan Doyle",
+        "published_year": 1887,
+        "genre": "Mystery"
+    },
+    {
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "published_year": 2008,
+        "genre": "Dystopian"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "published_year": 1813,
+        "genre": "Romance"
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "published_year": 1951,
+        "genre": "Novel"
+    },
+    {
+        "title": "The Chronicles of Narnia",
+        "author": "C.S. Lewis",
+        "published_year": 1950,
+        "genre": "Fantasy"
+    },
+    {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "published_year": 2003,
+        "genre": "Thriller"
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "published_year": 1988,
+        "genre": "Adventure"
+    }
+]
